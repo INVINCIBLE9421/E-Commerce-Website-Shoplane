@@ -1,0 +1,11 @@
+#thankyou-section {
+    opacity: 0; 
+    text-align: center;
+    padding: 50px;
+    font-size: 2em;
+    transition: opacity 1s ease-in-out;
+}
+
+h1{
+    font-weight: 10;
+}
